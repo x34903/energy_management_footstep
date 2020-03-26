@@ -19,6 +19,8 @@ Robot and Automation Society Letters (RA-L)
 
 *****************************************************************
 
+This code was developed in "MATLAB 2019b, Update 4" and was tested on both Ubuntu and Mac. 
+
 This code reproduces the plots used in Figures 4 "Curve of Capture" and "Figure 6 "Curve of Equal Energy." 
 The code also creates the functions for behind equations 14 and 16. These functions are saved in the folder "symbolic_functions"
 
