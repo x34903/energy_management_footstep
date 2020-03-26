@@ -34,5 +34,5 @@ x_cp [m] at energy level Em and height dh, this gives the intersection with the 
 Equation 16: equal energy point
 x = regression_create_x_cp( Em , dh ) ;
 
-x [m] at energy level Em and height dh, this gives the intersectio with the curve of equal energy
+x [m] at energy level Em and height dh, this gives the intersection with the curve of equal energy
 
